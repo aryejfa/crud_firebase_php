@@ -57,7 +57,6 @@
          <div class="col-xs-4 pull-right">
           <button type="submit" id="btn-signin" class="btn btn-primary btn-block btn-flat has-error">Sign In</button>
         </div>
-
         <!-- /.col -->
       </div>
     </form>
