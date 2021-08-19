@@ -35,7 +35,7 @@
 </head>
 <body class="hold-transition skin-blue sidebar-mini">
   <div class="wrapper">
-
+    
     <!-- Load Header -->
     <?php include('header.php'); ?>
     <!-- End Load Header -->
@@ -178,6 +178,7 @@
 </div>
 <!-- ./wrapper -->
 
+  
 <!-- jQuery 3 -->
 <script src="assets/plugins/bower_components/jquery/dist/jquery.min.js"></script>
 <!-- jQuery UI 1.11.4 -->
