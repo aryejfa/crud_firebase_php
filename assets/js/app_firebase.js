@@ -44,6 +44,7 @@ $(function () {
        ttl: v_tmpt_lahir+', '+v_tgl_lahir,
        email: v_email
      });
+      
     }else{
       var v_nim = $('input:text[name=txtNim]').val();
       var v_nama = $('input:text[name=txtNama]').val();
